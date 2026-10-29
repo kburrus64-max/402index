@@ -1,5 +1,5 @@
 name: "Anansi Haven Council Grade"
-description: "Four-model pre-trade and post-trade risk grade for trading agents: send a trade idea or closed trade, get a structured grade with reasons. Pay-per-call, no API key"
+description: "Trade postmortem grade for trading agents: deterministic scoring (entry and exit efficiency, stop placement against MFE/MAE benchmarks, R-multiple capture, rule checks). Pay-per-call, no API key"
 url: "https://anansi-haven.anansidata.workers.dev/v1/paid/council_grade"
 protocol: "x402"
 price_usd: 0.02
